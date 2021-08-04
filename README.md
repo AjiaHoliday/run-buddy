@@ -12,3 +12,5 @@ https://ajiaholiday.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Ajia Holiday
+
+# Run Buddy Inc.
